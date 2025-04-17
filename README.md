@@ -2,7 +2,7 @@
 
 ## Propósito da Atividade:
 
-Nessa atividade foi desenvolvida uma página HTML simples sobre "A arte da música", com o objetivo de aplicar os conceitos aprendidos durante as aulas, como o uso das ferramentas Git, GitHub e a estilização com CSS inline.
+  Nessa atividade foi desenvolvida uma página HTML simples sobre "A arte da música", com o objetivo de aplicar os conceitos aprendidos durante as aulas, como o uso das ferramentas Git, GitHub e a estilização com CSS inline.
 
 ## Principais Conceitos Aprendidos:
 
@@ -18,3 +18,6 @@ Nessa atividade foi desenvolvida uma página HTML simples sobre "A arte da músi
 - CSS inline
 - Git
 - GitHub
+
+## Comentário sobre a experiência:
+   Eu gostei muito de fazer essa atividade, porque me ajudou a colocar em prática todas as minhas anotações e tudo que eu havia aprendido em aula.
