@@ -14,10 +14,10 @@
   
 ##  Tecnologias Utilizadas:
 
-- HTML
-- CSS inline
-- Git
-- GitHub
+- HTML;
+- CSS inline;
+- Git;
+- GitHub.
 
 ## Comentário sobre a experiência:
    Eu gostei muito de fazer essa atividade, porque me ajudou a colocar em prática todas as minhas anotações e tudo que eu havia aprendido em aula.
